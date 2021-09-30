@@ -24,7 +24,7 @@ function Heightmap.new(frequency, x, y, seed)
 		Seed = seed
 	}, Heightmap)
 
-	self:_create()
+	self:_generate()
 
 	return self
 end
