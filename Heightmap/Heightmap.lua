@@ -5,7 +5,7 @@
 	@desc 2D Heightmap class
 
 	@constructor
-	-- Heightmap.new(frequency: Number, size: Number: seed: Number)
+	-- Heightmap.new(frequency: Number, sizeX: Number:, sizeY: Number seed: Number)
 
 	@methods
 	-- Heightmap:Repeat(): Table
